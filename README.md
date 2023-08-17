@@ -41,9 +41,7 @@ gerenciados pela Fundação Gestão hosptalar em  Recife-PE
 </div>
 </b>
 
-### EIIIIIITCHANNN! 
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=rodrigosiqq&show_icons=true)
 ![image](https://media.tenor.com/JeVCB8-bDlkAAAAC/work-hard-jim-carrey.gif)
 
           
