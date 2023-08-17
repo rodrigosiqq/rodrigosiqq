@@ -33,7 +33,7 @@ gerenciados pela Fundação Gestão hosptalar em  Recife-PE
 ### Gosto de graça desde molecote:
 
 <b>
-  manutenção em Hardware em hardware, Redes e cabeamento estruturado, e nas folgas, umas peças velhas pra brincar XD
+  manutenção em Hardware, Redes e cabeamento estruturado, e nas folgas, umas peças velhas pra brincar XD
 <div>
 <img src="https://goldpc.net.au/wp-content/uploads/2022/11/PC-FIX2.jpg" width="250" heith="250"/>
 <img src="http://cecead.com/wp-content/uploads/2020/07/Rede-MAN.png" width="250" heith="250" />
