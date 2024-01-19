@@ -26,8 +26,6 @@ gerenciados pela Fundação Gestão hosptalar em  Recife-PE
 ### Atualmente estou estudando e dando meu sangue para aprender direito:
 <div> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="100" height="110" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="100" height="100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="100" height="100" />
          
 </div>
 
