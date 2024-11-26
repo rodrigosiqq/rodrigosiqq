@@ -39,8 +39,4 @@ gerenciados pela Fundação Gestão hosptalar em  Recife-PE
 <img src="https://br.vazlon.com/static/pics///2018/07/15/sucata-eletronica-mogi-das-cruzes-20180715062438.jpg" width="250" heith="250" />
 </div>
 </b>
-
-
-![image](https://media.tenor.com/JeVCB8-bDlkAAAAC/work-hard-jim-carrey.gif)
-
           
