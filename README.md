@@ -23,7 +23,7 @@ gerenciados pela Fundação Gestão hosptalar em  Recife-PE
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="100" height="100" />         
 </div>
 
-### Atualmente minha dedicação e foco:
+### Tecnologias que também gosto de usar:
 <div> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="100" height="110" />
 <img src="https://files.passeidireto.com/946ff5f5-f37c-4004-9d7e-cf6a5756a500/946ff5f5-f37c-4004-9d7e-cf6a5756a500.png" width="100" height="110" />
